@@ -1,9 +1,10 @@
 # Nicholas Skiba
 
-Mechanical Engineering student pursuing a B.S./M.S. in Mechanical and Aerospace Engineering at Illinois Institute of Technology, with experience spanning mechanical design, computational engineering, experimental testing, data analysis, and engineering systems.
+Mechanical Engineering student pursuing a B.S./M.S. in Mechanical and Aerospace Engineering at Illinois Institute of Technology, with experience in mechanical design, robotics, computational engineering, experimental testing, data analysis, and engineering systems.
 
 ## Engineering Focus
 
+* Robotics & Mechatronic Systems
 * Mechanical Design & CAD
 * Computational Engineering & Optimization
 * FEA & Engineering Simulation
@@ -14,16 +15,19 @@ Mechanical Engineering student pursuing a B.S./M.S. in Mechanical and Aerospace 
 
 ## Education
 
-**Illinois Institute of Technology — Chicago, IL**
+**Illinois Institute of Technology - Chicago, IL**
 
 B.S. Mechanical Engineering / M.S. Mechanical and Aerospace Engineering
 Co-Terminal Program
 Minor: Engineering Graphics and CAD
 Expected December 2027
 
+**Undergraduate GPA:** 3.59
+**Graduate GPA:** 4.00
+
 ## Experience
 
-### Progress Rail
+### Progress Rail, A Caterpillar Company
 
 **Engine Controls Engineering Intern**
 
@@ -51,37 +55,33 @@ Founded and operate an automotive detailing business, managing customer relation
 
 Designed and prototyped a four-bar robotic mechanism for automated EV charging-position alignment, combining mechanism optimization, CAD, MATLAB analysis, Arduino control, and physical prototyping.
 
-[View project →](https://github.com/NickSkiba17/Four-Bar-EV-Charging-Arm)
+[View project →](https://github.com/NickSki17/Four-Bar-EV-Charging-Arm)
 
 ### Bio-Inspired Hexapod Robot
 
-Designed and built a six-legged robot using servo-actuated legs and an open-loop tripod gait, integrating mechanical design, CAD, electronics, fabrication, and Arduino control.
+Designed and built a six-legged robot using servo-actuated legs and an open-loop tripod gait, integrating mechanical design, CAD, electronics, fabrication, and Arduino control. The prototype achieved approximately 0.24 m/s (1.3 body lengths/s) during physical testing.
 
-[View project →](https://github.com/NickSkiba17/Hexapod-Robot)
+[View project →](https://github.com/NickSki17/Hexapod-Robot)
 
 ### Sustainable Foam-Core Chair
 
 Designed a lightweight interlocking foam-core chair and evaluated its structural performance through CAD-based analysis and physical load testing.
 
-[View project →](https://github.com/NickSkiba17/Sustainable-Chair)
+[View project →](https://github.com/NickSki17/Sustainable-Chair)
 
 ### Engineering Project Collection
 
 A curated collection of mechanical design, FEA, optimization, computational methods, CNC manufacturing, and engineering analysis projects.
 
-[View projects →](https://github.com/NickSkiba17/Small-Projects-Public)
+[View projects →](https://github.com/NickSki17/Small-Projects-Public)
 
 ## Technical Skills
 
-**Programming & Analysis:** Python, MATLAB, G-Code, Arduino, Mathematica, LaTeX
-
-**CAD & Engineering Design:** Autodesk Inventor, SolidWorks, AutoCAD, Mastercam, Revit, GD&T
-
-**Simulation:** ANSYS, FEA, computational modeling, numerical methods, optimization
-
-**Manufacturing & Fabrication:** 3D printing, welding, plasma cutting, soldering, laser cutting, CNC manufacturing
-
-**Instrumentation & Testing:** VNA, oscilloscopes, RF amplifiers, signal generators, data acquisition, experimental test development
+* **Programming & Analysis:** Python, MATLAB, G-Code, Arduino, Mathematica, LaTeX
+* **CAD & Engineering Design:** Autodesk Inventor, SolidWorks, AutoCAD, Mastercam, Revit, GD&T
+* **Simulation:** ANSYS, FEA, computational modeling, numerical methods, optimization
+* **Manufacturing & Fabrication:** 3D printing, welding, plasma cutting, soldering, laser cutting, CNC manufacturing
+* **Instrumentation & Testing:** VNA, oscilloscopes, RF amplifiers, signal generators, data acquisition, experimental test development
 
 ## Links
 
