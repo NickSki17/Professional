@@ -1,4 +1,4 @@
-# Formula SAE Chassis Design — Illinois Tech
+# Formula SAE Chassis Design - Illinois Tech
 
 **Role:** Chassis Design Team Member  
 **Dates:** August 2026 – Present  
